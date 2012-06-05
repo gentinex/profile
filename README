@@ -1,0 +1,12 @@
+notes on profile:
+
+-octave files go into c:\Program Files\XEmacs\xemacs-packages\lisp\prog-modes
+-makeconf goes into c:\Program Files\R\R-2.14.0\etc\i386
+-rconsole goes into c:\Program Files\R\R-2.14.0\etc\
+-rprofile goes into HOME directory
+-in HOME directory, create .xemacs directory, and place init.el into this
+-install ess into c:\Program Files\XEmacs\xemacs-packages\lisp
+-make sure that init.el sets the correct home directory
+-make sure that init.el gets the correct reference to ess-site
+-usually don't change profile; just make the one line change re PS1
+ in bash.bashrc to the file c:/cygwin/etc
