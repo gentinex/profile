@@ -10,3 +10,4 @@ notes on profile:
 -make sure that init.el gets the correct reference to ess-site
 -usually don't change profile; just make the one line change re PS1
  in bash.bashrc to the file c:/cygwin/etc
+-.js files are greasemonkey scripts for firefox / chrome
