@@ -4,6 +4,7 @@ notes on profile:
 -makeconf goes into c:\Program Files\R\R-2.14.0\etc\i386
 -rconsole goes into c:\Program Files\R\R-2.14.0\etc\
 -rprofile goes into HOME directory
+-passwd goes into c:/cygwin/etc, and make sure the relevant username home directory maps to the appropriate home directory
 -in HOME directory, create .xemacs directory, and place init.el into this
 -install ess into c:\Program Files\XEmacs\xemacs-packages\lisp
 -make sure that init.el sets the correct home directory
